@@ -10,6 +10,9 @@
 
 Mathgame is a fun and educational math game that transforms learning into an exciting adventure. Perfect for elementary school children, this app helps develop quick mental calculation skills through three different arithmetic operations: Addition, Subtraction, and Multiplication.
 
+## UI of the App
+
+
 ##  Features
 
 ###  Game Modes
@@ -45,19 +48,6 @@ Mathgame is a fun and educational math game that transforms learning into an exc
 - **Timer**: CountDownTimer for game mechanics
 - **Random Generation**: Java Random class for question generation
 
-## 📸 Screenshots
-
-### Main Menu
-![Main Menu](screenshots/main_menu.png)
-*Choose your preferred math operation*
-
-### Gameplay
-![Gameplay](screenshots/gameplay.png)
-*Solve math problems against the clock*
-
-### Results
-![Results](screenshots/results.png)
-*View your final score and performance*
 
 ##  Installation
 
