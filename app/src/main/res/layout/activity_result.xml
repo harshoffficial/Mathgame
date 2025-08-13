@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".result"
+    android:background="@drawable/dd"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textViewScore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Score:"
+        android:textColor="#242A2A"
+        android:textSize="25dp"
+        android:layout_marginTop="80dp"
+        android:gravity="center"/>
+
+    <LinearLayout
+        android:layout_width="380dp"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="500dp">
+
+        <Button
+            android:id="@+id/playagain"
+            android:layout_width="165dp"
+            android:layout_height="wrap_content"
+            android:text="Play Again"
+            android:textColor="#3A7373"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/button"
+            />
+
+        <Button
+            android:id="@+id/exit"
+            android:layout_width="165dp"
+            android:layout_height="wrap_content"
+            android:text="Exit"
+            android:textColor="#3A7373"
+            android:background="@drawable/button"/>
+    </LinearLayout>
+
+
+</LinearLayout>
