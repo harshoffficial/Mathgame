@@ -60,7 +60,7 @@ https://github.com/user-attachments/assets/ed032f53-34f3-4972-b48c-f4de5cd7507a
 
 ##  How to Play
 
-1. **Launch the App**: Open Brain_Child on your Android device
+1. **Launch the App**: Open App on your Android device
 2. **Choose Operation**: Select from Addition, Subtraction, or Multiplication
 3. **Read the Question**: Look at the math problem displayed
 4. **Enter Your Answer**: Type your answer in the input field
